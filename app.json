@@ -35,9 +35,9 @@
 
         "STRING": {
 
-            "description": "Pyrogram String Session Use  @genStr_Bot",
+            "description": "",
 
-            "required": true
+            "required": false
 
         },
 
@@ -123,4 +123,5 @@
     ]
 
 }
+
 
