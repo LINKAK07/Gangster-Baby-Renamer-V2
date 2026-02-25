@@ -4,11 +4,11 @@ import os
 
 from plugins.cb_data import app as Client2
 
-TOKEN = os.environ.get("TOKEN", "")
+TOKEN = os.environ.get("TOKEN", "8376181960:AAFEPcmVZn4RXWmSeoJQLPyHwjRylssVG-Q")
 
-API_ID = int(os.environ.get("API_ID", ""))
+API_ID = int(os.environ.get("API_ID", "35943485"))
 
-API_HASH = os.environ.get("API_HASH", "")
+API_HASH = os.environ.get("API_HASH", "185886afadce6add3777d63e61ed3257")
 
 STRING = os.environ.get("STRING", "")
 
@@ -37,3 +37,4 @@ if STRING:
     
 else:
     bot.run()
+
