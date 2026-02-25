@@ -25,7 +25,7 @@
 
         "CHANNEL": {
 
-            "description": "Channel or Group user Name With @",
+            "description": "https://t.me/+D6UJSSlXDdQ4ZDA1",
 
             "required":true
 
@@ -43,7 +43,7 @@
 
         "API_ID": {
 
-            "description": "Your APP ID From my.telegram.org ",
+            "description": "35943485 ",
 
             "required": true
 
@@ -51,7 +51,7 @@
 
         "API_HASH": {
 
-            "description": "Your API Hash From my.telegram.org ",
+            "description": "185886afadce6add3777d63e61ed3257 ",
 
             "required": true
 
@@ -59,7 +59,7 @@
 
         "TOKEN": {
 
-            "description": "Your Bot Token From @BotFather",
+            "description": "8376181960:AAFEPcmVZn4RXWmSeoJQLPyHwjRylssVG-Q",
 
             "required": true
 
@@ -67,7 +67,7 @@
 
         "ADMIN": {
 
-            "description":"Add Your User ID",
+            "description":"6178309871",
 
             "required": true
 
@@ -75,13 +75,13 @@
 
         "DB_URL":{
 
-             "description":"Database Url Get It From Mongo DB"
+             "description":"mongodb+srv://mfhussainakbar_db:294753618@cluster0.mwn0tlj.mongodb.net/?appName=Cluster0"
 
         },
 
         "DB_NAME":{
 
-               "description":"Database Name ",
+               "description":"Cluster0 ",
 
                "required":true
 
@@ -89,7 +89,7 @@
 
         "LOG_CHANNEL":{
 
-             "description":"Channel Id Nedd Store Files Get Your channel id from Rose @MissRose_bot",
+             "description":"-1003807171163",
 
              "required": true
 
@@ -123,3 +123,4 @@
     ]
 
 }
+
